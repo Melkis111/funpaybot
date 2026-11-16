@@ -23,8 +23,8 @@ ALLOWED_USER_IDS = [ , ] # Telegram ID пользователей, которы�
 ### Где взять:
 
 **Golden Key:**
-1. Зайди на funpay.com
-2. Настройки аккаунта → Безопасность → API
+1. скачай editthiscookie
+2. нажми на печеньку справа сверху
 3. Скопируй golden_key
 
 **Telegram Token:**
